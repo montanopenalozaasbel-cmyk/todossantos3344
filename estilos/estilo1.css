@@ -1,0 +1,45 @@
+body{
+    background-image: url(../imagenes/e171110593510bfead95102db070fbc4.jpg);
+}
+header{
+    background-color: azure;
+    padding: 5px;
+}
+footer{
+    background-color: azure;
+    padding: 5px;
+}
+nav{
+    background-color: yellow;
+    padding: 5px;
+    text-align: left;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.contenido{
+    background-color: rgba(249, 193,246, 0.487);
+    padding: 5px;
+    margin: 2px;
+    display: flex;
+}
+section{
+    background-color:rgba(249, 193,246,)  ;
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;
+}
+*{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    background-color: rgb(193, 250, 250);
+    width: 80%;
+    height: 50px;
+}
+label{
+    color: red;
+}
